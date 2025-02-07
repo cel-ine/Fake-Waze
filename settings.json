@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.base.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.controls.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.fxml.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.graphics.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.media.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.swing.jar",
+        "d:\\VSCode\\openjfx-23.0.2_windows-x64_bin-sdk\\javafx-sdk-23.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.base.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.controls.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.media.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.swing.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx.web.jar",
+        "c:\\Users\\Celine\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib\\javafx-swt.jar"
+    ]
+}
